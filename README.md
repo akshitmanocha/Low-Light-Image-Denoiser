@@ -1,10 +1,10 @@
-# Low-Light Image Enhancement
+# Low-Light Image Denoiser
 
 This repository contains the implementation of a low-light image enhancement model that was used in the NTIRE-2024 Low Light Image Enhancement competition.
 
 ## Model Overview
 
-The model utilized in this project is based on the ImageNet architecture, specifically tailored for low-light image enhancement. This architecture integrates several advanced techniques to improve image quality, including:
+This model is based on the ImageLab architecture, specifically tailored for low-light image enhancement. This architecture integrates several techniques to improve the image quality:
 
 - **Spatial Information Enhancement**: Improves the detail and structure of low-light images.
 - **Intricate Feature Capture**: Effectively captures detailed features in low-light conditions.
