@@ -13,7 +13,7 @@ The model utilized in this project is based on the ImageNet architecture, specif
 
 ## Performance
 
-The enhanced images produced by this model achieved an average Peak Signal-to-Noise Ratio (PSNR) value of 20 dB on the training set.
+The enhanced images produced by this model achieved an average Peak Signal-to-Noise Ratio (PSNR) value of 24 dB on the training set.
 
 ## Training Details
 
